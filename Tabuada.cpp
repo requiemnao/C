@@ -15,4 +15,4 @@ int main()
 	}
 	return 0;
 }
-// tabuada de qualquer número que seja inteiro
+// tabuada de qualquer nÃºmero que seja inteiro
