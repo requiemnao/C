@@ -10,6 +10,6 @@ int main(void) {
     }
     return 0;
 }
-// Use variables in loops / vari·veis em loops 
+// Use variables in loops / vari√°veis em loops 
 // %d logo dps as integers declaradas dando valores aos %d 
-//loop em progress„o aritmÈticas 
+//loop em progress√£o aritm√©ticas 
