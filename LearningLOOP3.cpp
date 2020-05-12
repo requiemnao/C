@@ -19,3 +19,6 @@ printf("+");
     printf("+");
 return(0);
 }
+
+//comentario em uma linha
+/* comentario em um conjunto de linhas */
